@@ -1,0 +1,18 @@
+{
+  "name": "dz-digital-market",
+  "version": "1.0.0",
+  "description": "Algerian digital products marketplace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "marketplace",
+    "dz",
+    "algeria",
+    "digital-products"
+  ],
+  "author": "",
+  "license": "ISC"
+}
